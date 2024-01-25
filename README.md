@@ -8,5 +8,5 @@
 | [Practice of Image Datasets And Tensorflow](https://shorturl.at/aETV0)  | Python  | Using Python to adjust various properties of digital images  |
 | [Web Scraper](https://shorturl.at/ivPW1 )  | Python  | A simple webscraper to collect data from an online shopping platform in Taiwan  |
 | [Seagulls Above the Sea](https://shorturl.at/pvCHW)  | Javascript  | The practice of Separation, Cohesion and Alignment  |
-| []()  | Content Cell  | Content Cell  |
-| []()  | Content Cell  | Content Cell  |
+| [Practice of Polymorphism](https://shorturl.at/uwY13)  | C++ |   |
+| [Practice of Inheritance](https://shorturl.at/uCGR2)  | C++ |  |
