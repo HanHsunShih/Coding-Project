@@ -1,7 +1,7 @@
 # Coding-Project
 | Project Name  | Language/ Technique | Description/ Problems Solved |
 | ------------- | ------------- | ------------- | 
-| [Image Generative Model<br> Using LoRA and DreamBooth](https://shorturl.at/dfvH1 )  | Machine Learning, Image<br> generation using Stable Diffusion  | Using my drawings as a dataset to develop a Stable Diffusion<br> Checkpoint model fine-tuned with LoRA and DreamBooth  | 
+| [Image Generative Model<br> Using LoRA and DreamBooth](https://github.com/HanHsunShih/Image-generative-model-using-LoRA-and-DreamBooth)  | Machine Learning, Image<br> generation using Stable Diffusion  | Using my drawings as a dataset to develop a Stable Diffusion<br> Checkpoint model fine-tuned with LoRA and DreamBooth  | 
 | [Pix2Pix Edges to Images](https://shorturl.at/psJNW) | Machine Learning,<br> Python  | Using my drawings as a dataset to develop a pix2pix GAN  |
 | [Escape from Aunt Tiger](https://youtube.com/shorts/uzMvt3wsa1U?feature=share)  | Unity, C#  | Using Unity and C# programming to develop a game  |
 | [Arduino, Interactive plant](https://github.com/HanHsunShih/Creative-Making-1)  | Arduino,<br> C++  | An interactive plant installation that blooms in response to light and interacts with you.|
